@@ -34,9 +34,9 @@ Step 2: Program takes the csv data and prepares it for use in the calculator and
 
 Step 3: Program takes the data frame and creates a graph from it using matplotlib.
 
-Step 4: Program prompts user for input and takes the date values and uses them to select the corresponding CPI values in the data frame for use in calculations.
+Step 4: Program prompts user for input and takes the date values and uses them to select the corresponding CPI values in the data frame for use in calculations. Also runs validations to ensure the dates entered are within the CPI data and there is no division by 0.
 
-Step 5: Program takes the inputs to find the price on the end date, percentage change, number of years, and average annual rate of change.
+Step 5: Program uses the inputs to find the price on the end date, percentage change, number of years, and average annual rate of change.
 
 Step 6: Program prints out the results to the user.
 
